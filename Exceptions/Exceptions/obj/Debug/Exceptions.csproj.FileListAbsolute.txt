@@ -1,0 +1,7 @@
+C:\Users\Α\source\repos\MyGit\Practice\ExceptionsExec\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\Α\source\repos\MyGit\Practice\ExceptionsExec\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\Α\source\repos\MyGit\Practice\ExceptionsExec\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Α\source\repos\MyGit\Practice\ExceptionsExec\Exceptions\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\Α\source\repos\MyGit\Practice\ExceptionsExec\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Α\source\repos\MyGit\Practice\ExceptionsExec\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\Α\source\repos\MyGit\Practice\ExceptionsExec\Exceptions\Exceptions\obj\Debug\Exceptions.pdb
